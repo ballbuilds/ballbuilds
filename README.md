@@ -25,7 +25,7 @@ Full-stack developer from Thailand. I build web apps, automation and trading too
 
 | Project | What it is |
 |---|---|
-| [hub_acc](https://github.com/BallDevTools/hub_acc) | Account, Shopee Affiliate and Facebook Page management dashboard (Next.js, Fastify, pg-boss, PostgreSQL) |
-| [xau-zone-trader](https://github.com/BallDevTools/xau-zone-trader) | XAUUSD trading system where Claude plans daily zones and deterministic code executes, with a risk gateway and shadow mode |
-| [xauusd-grid-bot](https://github.com/BallDevTools/xauusd-grid-bot) | Grid + EA trading bot for XAUUSD on MT5, with a backtest engine and web dashboard |
-| [nodejs-backend-fastify](https://github.com/BallDevTools/nodejs-backend-fastify) | Fastify + Prisma + MySQL backend with Redis, clustering and load tests |
+| [hub_acc](https://github.com/ballbuilds/hub_acc) | Account, Shopee Affiliate and Facebook Page management dashboard (Next.js, Fastify, pg-boss, PostgreSQL) |
+| [xau-zone-trader](https://github.com/ballbuilds/xau-zone-trader) | XAUUSD trading system where Claude plans daily zones and deterministic code executes, with a risk gateway and shadow mode |
+| [xauusd-grid-bot](https://github.com/ballbuilds/xauusd-grid-bot) | Grid + EA trading bot for XAUUSD on MT5, with a backtest engine and web dashboard |
+| [nodejs-backend-fastify](https://github.com/ballbuilds/nodejs-backend-fastify) | Fastify + Prisma + MySQL backend with Redis, clustering and load tests |
